@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 726be555073d4440e9440fdcfa9b7f9a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - candyPrefab: {fileID: 6223350526909108609, guid: 7f910901cd02b495d8fe53454ce4a804,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
